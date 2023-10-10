@@ -1,0 +1,135 @@
+[
+    {
+      "img": "https://i.ibb.co/L9p5ZQf/Rectangle-4287.png",
+      "id": 1,
+      "category_name": "Clothing",
+      "title": "Used Clothing Drive",
+      "amount": 499.99,
+      "details": "Clothing is a vital aspect of human culture and daily life, consisting of garments and accessories worn to cover and protect the body, express personal style, and adapt to environmental conditions. Clothing serves both functional and aesthetic purposes, providing warmth, comfort, and protection from the elements",
+      "text_color": "#79C23F",
+      "bg_color": "#79C23F26",
+      "btn_color": "#79C23F33"
+    },
+    {
+      "img": "https://i.ibb.co/XS5NTZh/Rectangle-4284.png",
+      "id": 2,
+      "category_name": "Health",
+      "title": "Clean water for children",
+      "amount": 29.99,
+      "details": "Health is a state of physical, mental, and social well-being in which an individual experiences optimal functioning and a high quality of life. It goes beyond the absence of illness or disease and encompasses factors like physical fitness, emotional stability, and social connections. ",
+      "text_color": "#0052FF",
+      "bg_color": "#0052FF26",
+      "btn_color": "#0052FF33"
+    },
+    {
+      "img": "https://i.ibb.co/L9p5ZQf/Rectangle-4287.png",
+      "id": 3,
+      "category_name": "Clothing",
+      "title": "Used Clothing Drive",
+      "amount": 39.99,
+      "details": "Clothing is a vital aspect of human culture and daily life, consisting of garments and accessories worn to cover and protect the body, express personal style, and adapt to environmental conditions. Clothing serves both functional and aesthetic purposes, providing warmth, comfort, and protection from the elements",
+      "text_color": "#79C23F",
+      "bg_color": "#79C23F26",
+      "btn_color": "#79C23F33"
+    },
+    {
+      "img": "https://i.ibb.co/HD4FG90/Rectangle-4287-2.png",
+      "id": 4,
+      "category_name": "Food",
+      "title": "Better Food for Everyone",
+      "amount": 12.99,
+      "details": "Food is a fundamental necessity for all living beings, providing nourishment and sustenance. It encompasses a wide range of edible substances, including fruits, vegetables, grains, meats, and dairy products, each offering unique flavors, textures, and nutritional value",
+      "text_color": "#F87147",
+      "bg_color": "#F8714726",
+      "btn_color": "#F8714733"
+    },
+    {
+      "img": "https://i.ibb.co/XS5NTZh/Rectangle-4284.png",
+      "id": 5,
+      "category_name": "Health",
+      "title": "Clean water for children",
+      "amount": 79.99,
+      "details": "Health is a state of physical, mental, and social well-being in which an individual experiences optimal functioning and a high quality of life. It goes beyond the absence of illness or disease and encompasses factors like physical fitness, emotional stability, and social connections. ",
+      "text_color": "#0052FF",
+      "bg_color": "#0052FF26",
+      "btn_color": "#0052FF33"
+    },
+    {
+      "img": "https://i.ibb.co/vVdgrMD/Rectangle-4287-1.png",
+      "id": 6,
+      "category_name": "Education",
+      "title": "Good education",
+      "amount": 69.99,
+      "details": "Education is the process of acquiring knowledge, skills, values, and attitudes through various formal and informal means. It is a lifelong journey that empowers individuals to understand the world, make informed decisions, and contribute to society",
+      "text_color": "#FF444A",
+      "bg_color": "#FF444A26",
+      "btn_color": "#FF444A33"
+    },
+    {
+      "img": "https://i.ibb.co/L9p5ZQf/Rectangle-4287.png",
+      "id": 7,
+      "category_name": "Clothing",
+      "title": "Used Clothing Drive",
+      "amount": 149.99,
+      "details": "Clothing is a vital aspect of human culture and daily life, consisting of garments and accessories worn to cover and protect the body, express personal style, and adapt to environmental conditions. Clothing serves both functional and aesthetic purposes, providing warmth, comfort, and protection from the elements.",
+      "text_color": "#79C23F",
+      "bg_color": "#79C23F26",
+      "btn_color": "#79C23F33"
+    },
+    {
+      "img": "https://i.ibb.co/vVdgrMD/Rectangle-4287-1.png",
+      "id": 8,
+      "category_name": "Education",
+      "title": "Good education",
+      "amount": 59.99,
+      "details": "Education is the process of acquiring knowledge, skills, values, and attitudes through various formal and informal means. It is a lifelong journey that empowers individuals to understand the world, make informed decisions, and contribute to society",
+      "text_color": "#FF444A",
+      "bg_color": "#FF444A26",
+      "btn_color": "#FF444A33"
+    },
+    {
+      "img": "https://i.ibb.co/XS5NTZh/Rectangle-4284.png",
+      "id": 9,
+      "category_name": "Health",
+      "title": "Clean water for children",
+      "amount": 15.99,
+      "details": "Health is a state of physical, mental, and social well-being in which an individual experiences optimal functioning and a high quality of life. It goes beyond the absence of illness or disease and encompasses factors like physical fitness, emotional stability, and social connections. ",
+      "text_color": "#0052FF",
+      "bg_color": "#0052FF26",
+      "btn_color": "#0052FF33"
+    },
+    {
+      "img": "https://i.ibb.co/HD4FG90/Rectangle-4287-2.png",
+      "id": 10,
+      "category_name": "Food",
+      "title": "Better Food for Everyone",
+      "amount": 49.99,
+      "details": "Food is a fundamental necessity for all living beings, providing nourishment and sustenance. It encompasses a wide range of edible substances, including fruits, vegetables, grains, meats, and dairy products, each offering unique flavors, textures, and nutritional value",
+      "text_color": "#F87147",
+      "bg_color": "#F8714726",
+      "btn_color": "#F8714733"
+    },
+    {
+      "img": "https://i.ibb.co/vVdgrMD/Rectangle-4287-1.png",
+      "id": 11,
+      "category_name": "Education",
+      "title": "Good education",
+      "amount": 129.99,
+      "details": "Education is the process of acquiring knowledge, skills, values, and attitudes through various formal and informal means. It is a lifelong journey that empowers individuals to understand the world, make informed decisions, and contribute to society",
+      "text_color": "#FF444A",
+      "bg_color": "#FF444A26",
+      "btn_color": "#FF444A33"
+    },
+    {
+      "img": "https://i.ibb.co/HD4FG90/Rectangle-4287-2.png",
+      "id": 12,
+      "category_name": "Food",
+      "title": "Better Food for Everyone",
+      "amount": 79.99,
+      "details": "Food is a fundamental necessity for all living beings, providing nourishment and sustenance. It encompasses a wide range of edible substances, including fruits, vegetables, grains, meats, and dairy products, each offering unique flavors, textures, and nutritional value",
+      "text_color": "#F87140",
+      "bg_color": "#F8714726",
+      "btn_color": "#F8714733"
+    }
+  ]
+  
